@@ -1,0 +1,4 @@
+RandomForest: 0.8536
+LinearRegression: 0.7694
+DecisionTree: 0.7379
+SVR: -0.0817
