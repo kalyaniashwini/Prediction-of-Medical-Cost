@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (ignore all except insurance.csv)
+data/*
+!data/insurance.csv
+
+# OS files
+.DS_Store
+Thumbs.db
